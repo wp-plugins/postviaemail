@@ -5,7 +5,7 @@ Requires at least: 3.0
 Tested up to: 3.0.1
 Stable tag: 1.0
 
-The easiest way to post to your WordPress blog using email.
+The easiest way to post to your WordPress blog by email.
 
 == Description ==
 
