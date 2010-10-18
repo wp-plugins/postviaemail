@@ -2,9 +2,10 @@
 Contributors: jonefox
 Tags: email, post, posting
 Requires at least: 3.0
+Tested up to: 3.0.1
 Stable tag: 1.0
 
-The easiest way to post to your WordPress blog using email.  Just activate the plugin and you'll get an email address to send to which will post the contents directly to your blog.
+The easiest way to post to your WordPress blog using email.
 
 == Description ==
 
